@@ -50,25 +50,25 @@ export const AtelierSection: React.FC<AtelierSectionProps> = ({ onOpenAppointmen
               <div className="space-y-6 mb-8">
                 <div className="border-l-2 border-[#575e6d] pl-4">
                   <h4 className="text-lg text-[#1a1e26] font-serif font-medium">
-                    AETHER Flagship Hà Nội
+                    NhatLM Flagship Hà Nội
                   </h4>
                   <p className="text-[13px] text-[#596273]">
-                    Tầng 1, Tòa tháp Hoàn Kiếm, 15 Phố Tràng Tiền, Quận Hoàn Kiếm
+                    Đ. Nguyễn Khang/447 P. Yên Hòa, Cầu Giấy, Hà Nội 100000
                   </p>
                   <span className="text-[12px] text-[#858e9f] font-mono block mt-1">
-                    Giờ mở cửa: 09:00 - 21:30 • Hotline: 1800 6886
+                    Giờ mở cửa: 08:00 - 17:30 • Hotline: 0777 6362 97
                   </span>
                 </div>
 
                 <div className="border-l-2 border-[#d8dce4] pl-4">
                   <h4 className="text-lg text-[#1a1e26] font-serif font-medium">
-                    AETHER Studio TP. Hồ Chí Minh
+                    NhatLM Studio TP. Hồ Chí Minh
                   </h4>
                   <p className="text-[13px] text-[#596273]">
-                    68 Đại lộ Nguyễn Huệ, Phường Bến Nghé, Quận 1
+                    28 Nguyễn Văn Vĩnh, Phường Tân Sơn Nhất, Quận Tân Bình
                   </p>
                   <span className="text-[12px] text-[#858e9f] font-mono block mt-1">
-                    Giờ mở cửa: 09:00 - 22:00 • Hotline: 1800 6888
+                    Giờ mở cửa: 08:00 - 17:30 • Hotline: 0777 6362 97
                   </span>
                 </div>
               </div>
@@ -97,7 +97,7 @@ export const AtelierSection: React.FC<AtelierSectionProps> = ({ onOpenAppointmen
                 Nhận Bản Tin Kỹ Nghệ &amp; Lời Mời Sự Kiện
               </h3>
               <p className="text-[13px] text-[#596273] font-light mb-6 leading-relaxed">
-                Đăng ký để là người đầu tiên nhận thông tin về các lô xuất xưởng giới hạn cùng tài liệu kỹ thuật chuyên sâu từ đội ngũ thiết kế Aether.
+                Đăng ký để là người đầu tiên nhận thông tin về các lô xuất xưởng giới hạn cùng tài liệu kỹ thuật chuyên sâu từ đội ngũ thiết kế NhatLM.
               </p>
 
               <AnimatePresence mode="wait">
@@ -113,7 +113,7 @@ export const AtelierSection: React.FC<AtelierSectionProps> = ({ onOpenAppointmen
                       <span className="material-symbols-outlined">verified</span>
                     </div>
                     <h4 className="text-base font-serif font-semibold text-[#1a1e26]">
-                      Chào mừng bạn đến với AETHER Circle!
+                      Chào mừng bạn đến với NhatLM!
                     </h4>
                     <p className="text-xs text-[#596273]">
                       Mã lời mời hội viên VIP đặc quyền của bạn:
