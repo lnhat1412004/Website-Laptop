@@ -52,7 +52,7 @@ export const Hero: React.FC<HeroProps> = ({
           >
             <span className="w-2 h-2 rounded-full bg-[#8e95a5] animate-pulse"></span>
             <span className="text-[11px] text-[#596273] font-semibold tracking-wider uppercase font-sans">
-              THẾ HỆ ĐỈNH CAO 2025 • KIẾN TRÚC TITANIUM
+                • CHÀO MỪNG BẠN ĐẾN VỚI THẾ GIỚI CÔNG NGHỆ NHATLM •
             </span>
           </motion.div>
 
@@ -60,14 +60,14 @@ export const Hero: React.FC<HeroProps> = ({
             variants={itemVariants}
             className="text-4xl sm:text-5xl lg:text-7xl text-[#1a1e26] font-serif tracking-tight font-semibold mb-5 leading-[1.15]"
           >
-            Tuyệt tác Kỹ nghệ Vượt thời gian
+            Tinh hoa công nghệ, chuẩn mực khác biệt
           </motion.h1>
 
           <motion.p
             variants={itemVariants}
             className="text-base sm:text-lg text-[#596273] max-w-2xl mb-8 leading-relaxed font-light"
           >
-            Chế tác tinh vi từ hợp kim Titan Grade 5 phay xước siêu nhẹ. Sức mạnh vi xử lý AI NPU thế hệ mới cùng kiến trúc tản nhiệt buồng hơi tĩnh lặng tuyệt đối.
+            Từ những chiếc Laptop cao cấp đến hệ thống PC hiệu năng mạnh mẽ, mỗi sản phẩm đều được lựa chọn với tiêu chuẩn khắt khe về thiết kế, hiệu năng và độ tin cậy.
           </motion.p>
 
           <motion.div
