@@ -1,0 +1,6 @@
+{
+  "name": "NHATLM — Kỹ Nghệ Laptop Cao Cấp",
+  "description": "Flagship Ultrabooks & Workstations: Dell XPS, HP Spectre, Lenovo ThinkPad X1, Asus ROG. Tuyệt tác kỹ nghệ vượt thời gian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

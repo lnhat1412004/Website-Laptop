@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-page: #eceff4;
+    --primary: #575e6d;
+    --primary-hover: #2b3240;
+    --accent: #8e95a5;
+    --accent-dark: #636a7a;
+    --accent-light: #e9ecf2;
+    --text-main: #1a1e26;
+    --text-muted: #596273;
+    --text-subtle: #858e9f;
+    --borderline: #d8dce4;
+    --borderline-light: #e7eaf0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    background-color: #eceff4;
+    color: #1a1e26;
+  }
+
+  h1, h2, h3, .font-headline {
+    font-family: 'EB Garamond', Georgia, serif;
+  }
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 350, 'GRAD' 0, 'opsz' 24;
+  font-size: 20px;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.luminous-card {
+  background: #ffffff;
+  border: 1px solid #d8dce4;
+  box-shadow: 0 1px 3px rgba(26, 30, 38, 0.04), 0 6px 16px -4px rgba(26, 30, 38, 0.03);
+}
+
+.luminous-card-hover {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.luminous-card-hover:hover {
+  border-color: #8e95a5;
+  box-shadow: 0 12px 32px -8px rgba(142, 149, 165, 0.22);
+}
+
+.light-titanium-gradient {
+  background: radial-gradient(at 50% 0%, #ffffff 0%, #eceff4 75%);
+}
+
+.hero-shadow {
+  box-shadow: 0 20px 50px -12px rgba(26, 30, 38, 0.12), inset 0 1px 0 0 rgba(255, 255, 255, 0.9);
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #eceff4;
+}
+::-webkit-scrollbar-thumb {
+  background: #c5cbd6;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8e95a5;
+}
