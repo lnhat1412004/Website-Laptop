@@ -420,7 +420,7 @@ export const ProductDetailModal: React.FC<ProductDetailModalProps> = ({
                       <div className="text-xs text-[#596273] space-y-2 pt-3 border-t border-[#e7eaf0]">
                         <p>• <strong>Kỹ thuật viên tại chỗ:</strong> Chuyên viên hỗ trợ kỹ thuật có mặt tại địa chỉ của khách hàng trong vòng 24 giờ sau khi ghi nhận sự cố.</p>
                         <p>• <strong>Máy thay thế tạm thời:</strong> Cung cấp thiết bị cấu hình tương đương để công việc của quý khách không bị gián đoạn trong thời gian xử lý.</p>
-                        <p>• <strong>Hotline VIP riêng:</strong> Đầu số ưu tiên 1800 6886 không phải chờ đợi hàng đợi máy.</p>
+                        <p>• <strong>Hotline VIP riêng:</strong> Đầu số ưu tiên 0777 6362 97 không phải chờ đợi hàng đợi máy.</p>
                       </div>
                     </div>
                   </motion.div>
