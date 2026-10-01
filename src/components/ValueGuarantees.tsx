@@ -56,7 +56,7 @@ export const ValueGuarantees: React.FC = () => {
                 Giao hàng bảo an nguyên seal bằng chuyên cơ mặt đất tại nội thành Hà Nội &amp; TP. Hồ Chí Minh. Chuyên viên mở hộp và hướng dẫn cài đặt riêng.
               </p>
               <span className="text-[11px] text-[#636a7a] font-semibold tracking-wider uppercase block font-sans">
-                Dịch vụ Aether Concierge →
+                Dịch vụ NHATLM Concierge →
               </span>
             </div>
           </motion.div>
@@ -137,7 +137,7 @@ export const ValueGuarantees: React.FC = () => {
               {selectedGuarantee === 'concierge' && (
                 <div>
                   <span className="text-[11px] font-mono uppercase text-[#636a7a] tracking-wider block mb-2 font-semibold">
-                    Aether Concierge Service
+                    NHATLM Concierge Service
                   </span>
                   <h3 className="text-2xl font-serif font-semibold text-[#1a1e26] mb-3">
                     Đặc Quyền Giao Hỏa Tốc 2 Giờ
