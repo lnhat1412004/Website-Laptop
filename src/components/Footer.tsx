@@ -15,7 +15,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenPolicy }) => {
               NHATLM
             </span>
             <p className="text-[13px] text-[#596273] font-light mt-1.5 leading-relaxed">
-              Nhatlm — Trung tâm phân phối ủy quyền Flagship: HP Spectre, Lenovo ThinkPad, Asus ROG, Dell XPS — Đẳng cấp kỹ nghệ &amp; dịch vụ VIP tận nơi.
+              NhATLM — Trung tâm phân phối ủy quyền Flagship: HP Spectre, Lenovo ThinkPad, Asus ROG, Dell XPS — Đẳng cấp kỹ nghệ &amp; dịch vụ VIP tận nơi.
             </p>
           </div>
 
@@ -55,7 +55,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenPolicy }) => {
 
         {/* Lower Section */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-[#596273] text-[12px] font-mono">
-          <p>© 2025 TẬP ĐOÀN CÔNG NGHỆ NHATLM. BẢO LƯU MỌI QUYỀN. THIẾT KẾ KỸ NGHỆ TẠI CALIFORNIA.</p>
+          <p>© 2026 NHATLM TECHNOLOGY. BẢO LƯU MỌI QUYỀN.</p>
           <div className="flex items-center gap-4">
             <span className="text-[#858e9f]">VIỆT NAM / TIẾNG VIỆT</span>
             <span className="w-1 h-1 rounded-full bg-[#8e95a5]"></span>
