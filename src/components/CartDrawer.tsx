@@ -118,7 +118,7 @@ export const CartDrawer: React.FC<CartDrawerProps> = ({
                   Mã đơn hàng: <span className="font-bold text-[#1a1e26]">{orderComplete}</span>
                 </p>
                 <p className="text-[13px] text-[#596273] font-light leading-relaxed max-w-sm">
-                  Cảm ơn quý khách <span className="font-medium text-[#1a1e26]">{customerName}</span>. Chuyên viên Aether Concierge sẽ gọi điện thoại xác nhận trong vòng 10 phút để sắp xếp bàn giao bảo an hỏa tốc 2 giờ.
+                  Cảm ơn quý khách <span className="font-medium text-[#1a1e26]">{customerName}</span>. Chuyên viên NhatLM Concierge sẽ gọi điện thoại xác nhận trong vòng 10 phút để sắp xếp bàn giao bảo an hỏa tốc 2 giờ.
                 </p>
                 <div className="bg-[#f8f9fc] p-4 rounded border border-[#d8dce4] w-full text-left text-xs font-mono space-y-1 text-[#596273]">
                   <div>• Người nhận: {customerName} ({customerPhone})</div>
