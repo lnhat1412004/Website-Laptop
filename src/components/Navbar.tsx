@@ -187,7 +187,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               }}
               className="mt-2 w-full flex items-center justify-center gap-2 bg-[#575e6d] text-white py-2.5 rounded text-sm font-medium cursor-pointer"
             >
-              <span>Tùy biến cấu hình ngay</span>
+              <span>Thiết Kế Cấu Hình</span>
               <span className="material-symbols-outlined text-sm">tune</span>
             </button>
           </div>
